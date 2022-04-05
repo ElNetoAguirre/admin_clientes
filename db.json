@@ -1,0 +1,36 @@
+{
+  "clientes": [
+    {
+      "nombre": "Ernesto Alonso",
+      "empresa": "Piratex, S.A.",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "Cliente recomendado",
+      "id": 1
+    },
+    {
+      "nombre": "Neto 2",
+      "empresa": "Piratex, S.A.",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "Cliente recomendado",
+      "id": 2
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Karen Disños",
+      "email": "karen@karen.com",
+      "telefono": "0123456789",
+      "notas": "Karen está cotizando toner",
+      "id": 3
+    },
+    {
+      "nombre": "Paulina",
+      "empresa": "Paulina Construcciones",
+      "email": "correo@correo.com",
+      "telefono": "1234567890",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
